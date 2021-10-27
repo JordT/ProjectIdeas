@@ -1,4 +1,4 @@
-# ProjectIdeas
+# Project Ideas
 
 ## Projects
 - Blogging website. Build MERN stack repository: https://github.com/JordT/blog-with-Node-React
@@ -13,3 +13,12 @@
 - Login page with routing and sessions
 - Multiplayer
 - Move from local hosting. Hosting on GCP
+
+## Technologies
+- Typescript 
+- Redux
+- Docker 
+- AWS 
+- CircleCI
+- NextJS
+- Relational DB
