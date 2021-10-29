@@ -22,3 +22,5 @@
 - CircleCI
 - NextJS
 - Relational DB
+- Cypress
+
